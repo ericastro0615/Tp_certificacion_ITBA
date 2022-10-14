@@ -13,5 +13,7 @@ Para llevar a cabo una consulta es necesario obtener una clave API. Sin embargo,
 Alpha Vantage: https://www.alphavantage.co/
   Se puede acceder a la api key facilmente solo con registrarse con una dirección de correo y una clave personal.
 
-Documentación: https://www.alphavantage.co/documentation/
+Documentación referente a la API: https://www.alphavantage.co/documentation/
+
+Documentación referente a libreria Matlplot (gráfica): https://matplotlib.org/3.1.1/gallery/index.html
   
