@@ -9,3 +9,9 @@ Orientado a la importación y visualización de grafica de precios de cierre de 
 Alpha Vantage brinda una API gratuita para la consulta de datos financieros en tiempo real. Además, permite el acceso de algunos indicadores financieros, a diferencia de Poligon, Yahoo, entre otras. El código permite la consulta de datos haciendo uso de la API gratuita. 
 Para llevar a cabo una consulta es necesario obtener una clave API. Sin embargo, para fines de prueba ya se encuentra proporcionada en el código, con el fin de facilitar la ejecución.
 
+# Link para acceder a documentación y API
+Alpha Vantage: https://www.alphavantage.co/
+  Se puede acceder a la api key facilmente solo con registrarse con una dirección de correo y una clave personal.
+
+Documentación: https://www.alphavantage.co/documentation/
+  
